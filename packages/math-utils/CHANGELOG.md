@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.1 (2022-04-14)
+
+
+### Bug Fixes
+
+* fix ([fd238a0](https://github.com/@aave/aave-utilities/commit/fd238a0227e929573cb9c38a67abd83242150064))
+
+
+
+
+
 # 1.1.0 (2022-03-28)
 
 
